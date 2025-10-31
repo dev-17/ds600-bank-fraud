@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+data/
+models/
+.kaggle/
+kaggle.json
+.env
