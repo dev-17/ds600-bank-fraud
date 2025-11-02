@@ -1,0 +1,6 @@
+payment_type,payment_type,n,actual_rate,predicted_positive_rate,avg_score,tpr,fpr,precision,predicted_positive_rate_parity,tpr_parity,fpr_parity,flag_ppr_80pct,flag_tpr_80pct,flag_fpr_125pct
+1,1,110921,0.011062,0.019518,0.022973,0.264059,0.016783,0.149654,0.64604,0.73844,4.5641,True,True,True
+0,0,77371,0.005299,0.004213,0.010535,0.104878,0.003677,0.131902,0.139462,0.293291,1.0,True,True,False
+2,2,75863,0.016846,0.030212,0.030632,0.35759,0.024603,0.199389,1.0,1.0,6.690658,False,False,True
+3,3,35760,0.011018,0.00646,0.013898,0.13198,0.005061,0.225108,0.213811,0.369081,1.376421,True,True,True
+4,4,85,0.0,0.011765,0.011877,,0.011765,0.0,0.3894,,3.199376,True,False,True
